@@ -1,6 +1,6 @@
 {
   "name": "jquery-ujs",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Unobtrusive scripting adapter for jQuery",
   "main": "src/rails.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "url": "https://github.com/rails/jquery-ujs/issues"
   },
   "homepage": "https://github.com/rails/jquery-ujs#readme",
-  "dependencies": {
+  "peerDependencies": {
     "jquery": ">=1.8.0"
   }
 }
